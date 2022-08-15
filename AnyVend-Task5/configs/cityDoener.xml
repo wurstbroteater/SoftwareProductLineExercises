@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="AnyVend"/>
+	<feature automatic="selected" name="GUI"/>
+	<feature name="WebInterface"/>
+	<feature automatic="selected" manual="selected" name="javaGUI"/>
+	<feature automatic="unselected" name="SWING"/>
+	<feature manual="selected" name="javaFX"/>
+	<feature automatic="selected" name="Interaction"/>
+	<feature name="API"/>
+	<feature manual="selected" name="Analouge"/>
+	<feature automatic="selected" name="Caching"/>
+	<feature automatic="selected" manual="selected" name="Physical"/>
+	<feature manual="selected" name="Euro"/>
+	<feature manual="selected" name="Dollar"/>
+	<feature name="Crypto"/>
+	<feature name="BTC"/>
+	<feature name="Monero"/>
+	<feature name="Doge"/>
+	<feature automatic="unselected" name="Cooling"/>
+	<feature automatic="selected" name="Goods"/>
+	<feature automatic="unselected" name="Ice"/>
+	<feature automatic="unselected" name="Drinks"/>
+	<feature automatic="unselected" name="ALC"/>
+	<feature automatic="unselected" name="Beer"/>
+	<feature automatic="unselected" name="Wine"/>
+	<feature automatic="unselected" name="NonALC"/>
+	<feature automatic="unselected" name="Cola"/>
+	<feature automatic="unselected" name="Water"/>
+	<feature name="Snacks"/>
+	<feature name="Chips"/>
+	<feature name="Slickers"/>
+	<feature automatic="selected" name="Food"/>
+	<feature name="Pizza"/>
+	<feature name="Burger"/>
+	<feature manual="selected" name="Fries"/>
+	<feature name="Pasta"/>
+	<feature manual="selected" name="Doener"/>
+	<feature name="AgeVerification"/>
+	<feature automatic="selected" name="Heating"/>
+</configuration>
